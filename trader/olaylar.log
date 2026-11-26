@@ -1,1 +1,2 @@
 {"symbol": "ATOM-USD", "event": "stop", "level": 1.203, "time": "26.11 16:30", "entry": 1.255, "stop": 1.203, "target": 1.358}
+{"symbol": "LTC-USD", "event": "triggered", "level": 43.984, "time": "27.11 00:00", "entry": 43.984, "stop": 42.468, "target": 47.017}
