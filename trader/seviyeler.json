@@ -1,0 +1,795 @@
+{
+ "created_at": "2026-11-26T12:13+03:00",
+ "crypto": [
+  {
+   "symbol": "ATOM-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [
+    "reclaim_ma20"
+   ],
+   "rule": "reclaim_ma20",
+   "rule_tr": "20'lik ortalamanin ustune donus",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 1.236,
+   "entry": 1.255,
+   "stop": 1.203,
+   "target": 1.359,
+   "risk_pct": 4.14,
+   "reward_pct": 8.28,
+   "rsi": 54.7,
+   "history": {
+    "fired": 11,
+    "target": 1,
+    "stop": 8,
+    "neither": 2,
+    "look": 12
+   }
+  }
+ ],
+ "crypto_watch": [
+  {
+   "symbol": "LTC-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 43.696,
+   "entry": 43.984,
+   "stop": 42.427,
+   "target": 47.098,
+   "risk_pct": 3.54,
+   "reward_pct": 7.08,
+   "distance_pct": 1.3,
+   "rsi": 64.1,
+   "history": {
+    "fired": 6,
+    "target": 0,
+    "stop": 5,
+    "neither": 1,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "BCH-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 207.38,
+   "entry": 212.77,
+   "stop": 205.36,
+   "target": 227.591,
+   "risk_pct": 3.48,
+   "reward_pct": 6.97,
+   "distance_pct": 2.48,
+   "rsi": 62.0,
+   "history": {
+    "fired": 5,
+    "target": 0,
+    "stop": 5,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "ETC-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 5.899,
+   "entry": 6.076,
+   "stop": 5.88,
+   "target": 6.467,
+   "risk_pct": 3.22,
+   "reward_pct": 6.44,
+   "distance_pct": 2.57,
+   "rsi": 59.3,
+   "history": {
+    "fired": 3,
+    "target": 0,
+    "stop": 3,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "TRX-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.30404,
+   "entry": 0.31208,
+   "stop": 0.30947,
+   "target": 0.31728,
+   "risk_pct": 0.83,
+   "reward_pct": 1.67,
+   "distance_pct": 2.76,
+   "rsi": 38.7,
+   "history": {
+    "fired": 6,
+    "target": 1,
+    "stop": 5,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "LINK-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 9.238,
+   "entry": 9.546,
+   "stop": 9.216,
+   "target": 10.206,
+   "risk_pct": 3.46,
+   "reward_pct": 6.91,
+   "distance_pct": 4.37,
+   "rsi": 59.1,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "ADA-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.14849,
+   "entry": 0.15635,
+   "stop": 0.15036,
+   "target": 0.16832,
+   "risk_pct": 3.83,
+   "reward_pct": 7.66,
+   "distance_pct": 5.88,
+   "rsi": 54.3,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "HBAR-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.05387,
+   "entry": 0.05651,
+   "stop": 0.05442,
+   "target": 0.06068,
+   "risk_pct": 3.69,
+   "reward_pct": 7.38,
+   "distance_pct": 5.92,
+   "rsi": 58.4,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "BNB-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 553.73,
+   "entry": 586.78,
+   "stop": 571.299,
+   "target": 617.742,
+   "risk_pct": 2.64,
+   "reward_pct": 5.28,
+   "distance_pct": 5.98,
+   "rsi": 51.4,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 1,
+    "neither": 1,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "DOGE-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.05664,
+   "entry": 0.06016,
+   "stop": 0.05812,
+   "target": 0.06425,
+   "risk_pct": 3.4,
+   "reward_pct": 6.8,
+   "distance_pct": 6.57,
+   "rsi": 54.6,
+   "history": {
+    "fired": 5,
+    "target": 0,
+    "stop": 4,
+    "neither": 1,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "SHIB-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 3.63e-06,
+   "entry": 3.86e-06,
+   "stop": 3.739e-06,
+   "target": 4.102e-06,
+   "risk_pct": 3.14,
+   "reward_pct": 6.28,
+   "distance_pct": 6.63,
+   "rsi": 52.3,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "BTC-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 60813.32,
+   "entry": 64469.84,
+   "stop": 62635.34,
+   "target": 68138.83,
+   "risk_pct": 2.85,
+   "reward_pct": 5.69,
+   "distance_pct": 6.66,
+   "rsi": 51.3,
+   "history": {
+    "fired": 3,
+    "target": 0,
+    "stop": 3,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "NEAR-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 3.065,
+   "entry": 3.272,
+   "stop": 3.103,
+   "target": 3.61,
+   "risk_pct": 5.16,
+   "reward_pct": 10.32,
+   "distance_pct": 7.3,
+   "rsi": 56.8,
+   "history": {
+    "fired": 3,
+    "target": 0,
+    "stop": 3,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "FIL-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.5478,
+   "entry": 0.5838,
+   "stop": 0.55824,
+   "target": 0.63492,
+   "risk_pct": 4.38,
+   "reward_pct": 8.76,
+   "distance_pct": 7.53,
+   "rsi": 50.7,
+   "history": {
+    "fired": 1,
+    "target": 0,
+    "stop": 1,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "XRP-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.9539,
+   "entry": 1.024,
+   "stop": 0.9897,
+   "target": 1.094,
+   "risk_pct": 3.39,
+   "reward_pct": 6.78,
+   "distance_pct": 7.62,
+   "rsi": 56.1,
+   "history": {
+    "fired": 7,
+    "target": 0,
+    "stop": 7,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "XLM-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.12843,
+   "entry": 0.13844,
+   "stop": 0.13377,
+   "target": 0.14777,
+   "risk_pct": 3.37,
+   "reward_pct": 6.74,
+   "distance_pct": 7.76,
+   "rsi": 53.3,
+   "history": {
+    "fired": 3,
+    "target": 0,
+    "stop": 3,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "DOT-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 0.6756,
+   "entry": 0.7225,
+   "stop": 0.69534,
+   "target": 0.77683,
+   "risk_pct": 3.76,
+   "reward_pct": 7.52,
+   "distance_pct": 8.47,
+   "rsi": 50.8,
+   "history": {
+    "fired": 0,
+    "target": 0,
+    "stop": 0,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "AVAX-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 6.662,
+   "entry": 7.218,
+   "stop": 6.974,
+   "target": 7.706,
+   "risk_pct": 3.38,
+   "reward_pct": 6.76,
+   "distance_pct": 8.79,
+   "rsi": 49.8,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "ETH-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 1698.48,
+   "entry": 1841.91,
+   "stop": 1784.84,
+   "target": 1956.06,
+   "risk_pct": 3.1,
+   "reward_pct": 6.2,
+   "distance_pct": 9.14,
+   "rsi": 49.1,
+   "history": {
+    "fired": 3,
+    "target": 1,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "SOL-USD",
+   "kind": "crypto",
+   "bar": "4 saatlik",
+   "rules": [],
+   "rule": "watch",
+   "rule_tr": "Izleme: 20 mumluk zirve kirilimi bekleniyor",
+   "bar_close_utc": "2026-11-26T04:00:00+00:00",
+   "last_price": 71.0,
+   "entry": 78.36,
+   "stop": 75.703,
+   "target": 83.674,
+   "risk_pct": 3.39,
+   "reward_pct": 6.78,
+   "distance_pct": 10.74,
+   "rsi": 52.1,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  }
+ ],
+ "stocks": [
+  {
+   "symbol": "DIS",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "breakout_20"
+   ],
+   "rule": "breakout_20",
+   "rule_tr": "20 mumluk zirve kirilimi",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 125.6,
+   "entry": 125.6,
+   "stop": 120.789,
+   "target": 135.222,
+   "risk_pct": 3.83,
+   "reward_pct": 7.66,
+   "rsi": 68.9,
+   "history": {
+    "fired": 15,
+    "target": 1,
+    "stop": 8,
+    "neither": 6,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "T",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "breakout_20"
+   ],
+   "rule": "breakout_20",
+   "rule_tr": "20 mumluk zirve kirilimi",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 22.97,
+   "entry": 22.97,
+   "stop": 22.125,
+   "target": 24.66,
+   "risk_pct": 3.68,
+   "reward_pct": 7.36,
+   "rsi": 58.7,
+   "history": {
+    "fired": 8,
+    "target": 1,
+    "stop": 6,
+    "neither": 1,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "QCOM",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "reclaim_ma20"
+   ],
+   "rule": "reclaim_ma20",
+   "rule_tr": "20'lik ortalamanin ustune donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 168.66,
+   "entry": 168.66,
+   "stop": 153.863,
+   "target": 198.254,
+   "risk_pct": 8.77,
+   "reward_pct": 17.55,
+   "rsi": 49.6,
+   "history": {
+    "fired": 10,
+    "target": 3,
+    "stop": 4,
+    "neither": 3,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "HPQ",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "reclaim_ma20"
+   ],
+   "rule": "reclaim_ma20",
+   "rule_tr": "20'lik ortalamanin ustune donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 31.15,
+   "entry": 31.15,
+   "stop": 28.997,
+   "target": 35.455,
+   "risk_pct": 6.91,
+   "reward_pct": 13.82,
+   "rsi": 57.4,
+   "history": {
+    "fired": 8,
+    "target": 1,
+    "stop": 2,
+    "neither": 5,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "IBM",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "reclaim_ma20"
+   ],
+   "rule": "reclaim_ma20",
+   "rule_tr": "20'lik ortalamanin ustune donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 243.47,
+   "entry": 243.47,
+   "stop": 232.04,
+   "target": 266.329,
+   "risk_pct": 4.69,
+   "reward_pct": 9.39,
+   "rsi": 53.8,
+   "history": {
+    "fired": 15,
+    "target": 2,
+    "stop": 9,
+    "neither": 4,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "LMT",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "reclaim_ma20"
+   ],
+   "rule": "reclaim_ma20",
+   "rule_tr": "20'lik ortalamanin ustune donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 599.24,
+   "entry": 599.24,
+   "stop": 572.853,
+   "target": 652.013,
+   "risk_pct": 4.4,
+   "reward_pct": 8.81,
+   "rsi": 55.6,
+   "history": {
+    "fired": 10,
+    "target": 1,
+    "stop": 5,
+    "neither": 4,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "SBUX",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "reclaim_ma20"
+   ],
+   "rule": "reclaim_ma20",
+   "rule_tr": "20'lik ortalamanin ustune donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 107.74,
+   "entry": 107.74,
+   "stop": 103.092,
+   "target": 117.036,
+   "risk_pct": 4.31,
+   "reward_pct": 8.63,
+   "rsi": 56.4,
+   "history": {
+    "fired": 12,
+    "target": 1,
+    "stop": 5,
+    "neither": 6,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "V",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "reclaim_ma20"
+   ],
+   "rule": "reclaim_ma20",
+   "rule_tr": "20'lik ortalamanin ustune donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 424.39,
+   "entry": 424.39,
+   "stop": 410.414,
+   "target": 452.342,
+   "risk_pct": 3.29,
+   "reward_pct": 6.59,
+   "rsi": 59.1,
+   "history": {
+    "fired": 10,
+    "target": 2,
+    "stop": 2,
+    "neither": 6,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "MSTR",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "oversold_bounce",
+    "oversold"
+   ],
+   "rule": "oversold_bounce",
+   "rule_tr": "Asiri satimdan yukari donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 79.96,
+   "entry": 79.96,
+   "stop": 66.427,
+   "target": 107.026,
+   "risk_pct": 16.92,
+   "reward_pct": 33.85,
+   "rsi": 27.0,
+   "history": {
+    "fired": 3,
+    "target": 0,
+    "stop": 2,
+    "neither": 1,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "COIN",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "oversold_bounce",
+    "oversold"
+   ],
+   "rule": "oversold_bounce",
+   "rule_tr": "Asiri satimdan yukari donus",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 103.72,
+   "entry": 103.72,
+   "stop": 90.294,
+   "target": 130.572,
+   "risk_pct": 12.94,
+   "reward_pct": 25.89,
+   "rsi": 28.7,
+   "history": {
+    "fired": 2,
+    "target": 0,
+    "stop": 2,
+    "neither": 0,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "SNDK",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "oversold"
+   ],
+   "rule": "oversold",
+   "rule_tr": "Asiri satim (RSI 30 alti)",
+   "bar_close_utc": "2026-11-19T14:30:00+00:00",
+   "last_price": 73.61,
+   "entry": 94.395,
+   "stop": 75.762,
+   "target": 131.66,
+   "risk_pct": 19.74,
+   "reward_pct": 39.48,
+   "rsi": 29.4,
+   "history": {
+    "fired": 5,
+    "target": 0,
+    "stop": 2,
+    "neither": 3,
+    "look": 12
+   }
+  },
+  {
+   "symbol": "INTU",
+   "kind": "stock",
+   "bar": "gunluk",
+   "rules": [
+    "oversold"
+   ],
+   "rule": "oversold",
+   "rule_tr": "Asiri satim (RSI 30 alti)",
+   "bar_close_utc": "2026-11-25T14:30:00+00:00",
+   "last_price": 271.72,
+   "entry": 271.72,
+   "stop": 249.359,
+   "target": 316.442,
+   "risk_pct": 8.23,
+   "reward_pct": 16.46,
+   "rsi": 30.0,
+   "history": {
+    "fired": 14,
+    "target": 5,
+    "stop": 0,
+    "neither": 9,
+    "look": 12
+   }
+  }
+ ],
+ "orb": [],
+ "failed": [],
+ "notes": []
+}
