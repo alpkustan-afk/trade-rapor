@@ -1,0 +1,68 @@
+name: Trade raporlari
+
+# Saatler UTC'dir. Turkiye = UTC+3 (yaz/kis degismez).
+on:
+  schedule:
+    - cron: '30 5 * * *'     # 08:30 TR rapor
+    - cron: '30 9 * * *'     # 12:30 TR rapor
+    - cron: '30 14 * * *'    # 17:30 TR rapor
+    - cron: '0 18 * * *'     # 21:00 TR rapor
+    - cron: '15,45 * * * *'  # her 30 dk seviye takibi
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'report (rapor) veya check (seviye takibi)'
+        default: 'report'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trade
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Europe/Istanbul
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Calistir
+        run: |
+          set +e
+          case "${{ github.event.schedule }}" in
+            "30 5 * * *")    python tools/run.py report --slot 0830 ;;
+            "30 9 * * *")    python tools/run.py report --slot 1230 ;;
+            "30 14 * * *")   python tools/run.py report --slot 1730 ;;
+            "0 18 * * *")    python tools/run.py report --slot 2100 ;;
+            "15,45 * * * *") python tools/run.py check ;;
+            *)
+              if [ "${{ github.event.inputs.mode }}" = "check" ]; then
+                python tools/run.py check
+              else
+                python tools/run.py report --slot "Elle $(date +%H:%M)"
+              fi ;;
+          esac
+          code=$?
+          # 3 = seviye takibinde olay yok (normal)
+          if [ $code -ne 0 ] && [ $code -ne 3 ]; then exit $code; fi
+          exit 0
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          git config user.name "trade-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trader/ 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "durum guncelle" && git push
+          fi
