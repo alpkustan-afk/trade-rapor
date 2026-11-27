@@ -22,3 +22,5 @@
 {"symbol": "ETH-USD", "event": "triggered", "level": 1736.31, "time": "27.11 11:05", "entry": 1736.31, "stop": 1681.25, "target": 1846.43}
 {"symbol": "ETC-USD", "event": "triggered", "level": 6.01, "time": "27.11 11:20", "entry": 6.01, "stop": 5.837, "target": 6.356}
 {"symbol": "SOL-USD", "event": "triggered", "level": 73.34, "time": "27.11 11:00", "entry": 73.34, "stop": 70.846, "target": 78.328}
+{"symbol": "SHIB-USD", "event": "triggered", "level": 3.7e-06, "time": "27.11 13:30", "entry": 3.7e-06, "stop": 3.593e-06, "target": 3.913e-06}
+{"symbol": "SOL-USD", "event": "triggered", "level": 73.36, "time": "27.11 13:30", "entry": 73.36, "stop": 70.945, "target": 78.191}
