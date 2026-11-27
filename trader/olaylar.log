@@ -2,3 +2,4 @@
 {"symbol": "LTC-USD", "event": "triggered", "level": 43.984, "time": "27.11 00:00", "entry": 43.984, "stop": 42.468, "target": 47.017}
 {"symbol": "BCH-USD", "event": "triggered", "level": 212.77, "time": "27.11 05:00", "entry": 212.77, "stop": 205.739, "target": 226.831}
 {"symbol": "LINK-USD", "event": "triggered", "level": 9.546, "time": "27.11 05:35", "entry": 9.546, "stop": 9.228, "target": 10.182}
+{"symbol": "LTC-USD", "event": "triggered", "level": 44.22, "time": "27.11 06:00", "entry": 44.22, "stop": 42.796, "target": 47.069}
