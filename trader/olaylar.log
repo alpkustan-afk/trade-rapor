@@ -27,3 +27,4 @@
 {"symbol": "BRO", "event": "stop", "level": 77.925, "time": "27.11 19:20", "entry": 78.56, "stop": 77.925, "target": 79.83}
 {"symbol": "CDW", "event": "stop", "level": 177.96, "time": "27.11 20:05", "entry": 180.43, "stop": 177.96, "target": 185.37}
 {"symbol": "CHKP", "event": "target", "level": 168.51, "time": "27.11 19:50", "entry": 164.57, "stop": 162.6, "target": 168.51}
+{"symbol": "BOX", "event": "stop", "level": 46.74, "time": "27.11 20:35", "entry": 47.42, "stop": 46.74, "target": 48.78}
