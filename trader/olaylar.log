@@ -18,3 +18,7 @@
 {"symbol": "DOGE-USD", "event": "triggered", "level": 0.05797, "time": "27.11 09:25", "entry": 0.05797, "stop": 0.05606, "target": 0.06179}
 {"symbol": "BTC-USD", "event": "triggered", "level": 61738.28, "time": "27.11 10:15", "entry": 61738.28, "stop": 60084.2, "target": 65046.44}
 {"symbol": "HBAR-USD", "event": "triggered", "level": 0.05527, "time": "27.11 09:25", "entry": 0.05527, "stop": 0.05321, "target": 0.05939}
+{"symbol": "SHIB-USD", "event": "triggered", "level": 3.7e-06, "time": "27.11 11:00", "entry": 3.7e-06, "stop": 3.59e-06, "target": 3.92e-06}
+{"symbol": "ETH-USD", "event": "triggered", "level": 1736.31, "time": "27.11 11:05", "entry": 1736.31, "stop": 1681.25, "target": 1846.43}
+{"symbol": "ETC-USD", "event": "triggered", "level": 6.01, "time": "27.11 11:20", "entry": 6.01, "stop": 5.837, "target": 6.356}
+{"symbol": "SOL-USD", "event": "triggered", "level": 73.34, "time": "27.11 11:00", "entry": 73.34, "stop": 70.846, "target": 78.328}
