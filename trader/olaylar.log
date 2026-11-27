@@ -24,3 +24,4 @@
 {"symbol": "SOL-USD", "event": "triggered", "level": 73.34, "time": "27.11 11:00", "entry": 73.34, "stop": 70.846, "target": 78.328}
 {"symbol": "SHIB-USD", "event": "triggered", "level": 3.7e-06, "time": "27.11 13:30", "entry": 3.7e-06, "stop": 3.593e-06, "target": 3.913e-06}
 {"symbol": "SOL-USD", "event": "triggered", "level": 73.36, "time": "27.11 13:30", "entry": 73.36, "stop": 70.945, "target": 78.191}
+{"symbol": "BRO", "event": "stop", "level": 77.925, "time": "27.11 19:20", "entry": 78.56, "stop": 77.925, "target": 79.83}

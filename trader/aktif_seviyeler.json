@@ -1,26 +1,6 @@
 {
- "created_at": "2026-11-27T18:25+03:00",
+ "created_at": "2026-11-27T19:42+03:00",
  "items": [
-  {
-   "symbol": "DOGE-USD",
-   "kind": "crypto",
-   "rule": "breakout_20",
-   "entry": 0.05882,
-   "stop": 0.05701,
-   "target": 0.06244,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "SHIB-USD",
-   "kind": "crypto",
-   "rule": "breakout_20",
-   "entry": 3.71e-06,
-   "stop": 3.608e-06,
-   "target": 3.914e-06,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
   {
    "symbol": "DIS",
    "kind": "stock",
@@ -28,7 +8,7 @@
    "entry": 125.6,
    "stop": 120.789,
    "target": 135.222,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -38,7 +18,7 @@
    "entry": 22.97,
    "stop": 22.125,
    "target": 24.66,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -48,7 +28,7 @@
    "entry": 168.66,
    "stop": 153.863,
    "target": 198.254,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -58,7 +38,7 @@
    "entry": 31.15,
    "stop": 28.997,
    "target": 35.455,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -68,7 +48,7 @@
    "entry": 243.47,
    "stop": 232.04,
    "target": 266.329,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -78,7 +58,7 @@
    "entry": 599.24,
    "stop": 572.853,
    "target": 652.013,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -88,7 +68,7 @@
    "entry": 107.74,
    "stop": 103.092,
    "target": 117.036,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -98,7 +78,7 @@
    "entry": 424.39,
    "stop": 410.414,
    "target": 452.342,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -108,7 +88,7 @@
    "entry": 79.96,
    "stop": 66.427,
    "target": 107.026,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -118,7 +98,7 @@
    "entry": 103.72,
    "stop": 90.294,
    "target": 130.572,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -128,7 +108,7 @@
    "entry": 94.395,
    "stop": 75.762,
    "target": 131.66,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -138,17 +118,7 @@
    "entry": 271.72,
    "stop": 249.359,
    "target": 316.442,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "ADIG",
-   "kind": "stock",
-   "rule": "orb",
-   "entry": 10.65,
-   "stop": 10.35,
-   "target": 11.25,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -158,7 +128,7 @@
    "entry": 319.16,
    "stop": 317.02,
    "target": 323.44,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -168,7 +138,7 @@
    "entry": 183.94,
    "stop": 178.65,
    "target": 194.52,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -178,7 +148,7 @@
    "entry": 348.11,
    "stop": 345.535,
    "target": 353.26,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -188,7 +158,7 @@
    "entry": 41.01,
    "stop": 40.24,
    "target": 42.55,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -198,17 +168,7 @@
    "entry": 47.42,
    "stop": 46.74,
    "target": 48.78,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "BRO",
-   "kind": "stock",
-   "rule": "orb",
-   "entry": 78.56,
-   "stop": 77.925,
-   "target": 79.83,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -218,7 +178,7 @@
    "entry": 60.31,
    "stop": 59.935,
    "target": 61.06,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -228,7 +188,7 @@
    "entry": 180.43,
    "stop": 177.96,
    "target": 185.37,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -238,7 +198,7 @@
    "entry": 164.57,
    "stop": 162.6,
    "target": 168.51,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -248,7 +208,7 @@
    "entry": 152.43,
    "stop": 148.545,
    "target": 160.2,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -258,67 +218,17 @@
    "entry": 111.71,
    "stop": 110.68,
    "target": 113.77,
-   "since": "2026-11-27T18:25+03:00",
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
-   "symbol": "ADA-USD",
-   "kind": "crypto",
-   "rule": "watch",
-   "entry": 0.15368,
-   "stop": 0.14835,
-   "target": 0.16434,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "HBAR-USD",
-   "kind": "crypto",
-   "rule": "watch",
-   "entry": 0.0559,
-   "stop": 0.0539,
-   "target": 0.0599,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "LTC-USD",
-   "kind": "crypto",
-   "rule": "watch",
-   "entry": 44.854,
-   "stop": 43.491,
-   "target": 47.58,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "BNB-USD",
-   "kind": "crypto",
-   "rule": "watch",
-   "entry": 567.59,
-   "stop": 554.041,
-   "target": 594.687,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "AVAX-USD",
-   "kind": "crypto",
-   "rule": "watch",
-   "entry": 6.845,
-   "stop": 6.63,
-   "target": 7.275,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "BTC-USD",
-   "kind": "crypto",
-   "rule": "watch",
-   "entry": 62099.99,
-   "stop": 60536.76,
-   "target": 65226.44,
-   "since": "2026-11-27T18:25+03:00",
+   "symbol": "CMCSA",
+   "kind": "stock",
+   "rule": "orb",
+   "entry": 26.07,
+   "stop": 25.875,
+   "target": 26.46,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -326,49 +236,79 @@
    "kind": "crypto",
    "rule": "watch",
    "entry": 73.83,
-   "stop": 71.478,
-   "target": 78.534,
-   "since": "2026-11-27T18:25+03:00",
+   "stop": 71.284,
+   "target": 78.923,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
-   "symbol": "XRP-USD",
+   "symbol": "BNB-USD",
    "kind": "crypto",
    "rule": "watch",
-   "entry": 0.9856,
-   "stop": 0.95439,
-   "target": 1.048,
-   "since": "2026-11-27T18:25+03:00",
+   "entry": 567.59,
+   "stop": 552.726,
+   "target": 597.318,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "SHIB-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 3.73e-06,
+   "stop": 3.618e-06,
+   "target": 3.954e-06,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "DOGE-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 0.05903,
+   "stop": 0.05705,
+   "target": 0.06299,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
    "symbol": "XLM-USD",
    "kind": "crypto",
    "rule": "watch",
-   "entry": 0.13125,
-   "stop": 0.12717,
-   "target": 0.1394,
-   "since": "2026-11-27T18:25+03:00",
+   "entry": 0.13062,
+   "stop": 0.1262,
+   "target": 0.13944,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
-   "symbol": "DOT-USD",
+   "symbol": "AVAX-USD",
    "kind": "crypto",
    "rule": "watch",
-   "entry": 0.6936,
-   "stop": 0.66944,
-   "target": 0.74193,
-   "since": "2026-11-27T18:25+03:00",
+   "entry": 6.813,
+   "stop": 6.578,
+   "target": 7.283,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
-   "symbol": "NEAR-USD",
+   "symbol": "LTC-USD",
    "kind": "crypto",
    "rule": "watch",
-   "entry": 3.159,
-   "stop": 3.006,
-   "target": 3.463,
-   "since": "2026-11-27T18:25+03:00",
+   "entry": 44.854,
+   "stop": 43.396,
+   "target": 47.771,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "TRX-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 0.30952,
+   "stop": 0.30671,
+   "target": 0.31516,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -376,29 +316,49 @@
    "kind": "crypto",
    "rule": "watch",
    "entry": 6.03,
-   "stop": 5.865,
-   "target": 6.361,
-   "since": "2026-11-27T18:25+03:00",
+   "stop": 5.852,
+   "target": 6.385,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
-   "symbol": "ETH-USD",
+   "symbol": "ADA-USD",
    "kind": "crypto",
    "rule": "watch",
-   "entry": 1751.88,
-   "stop": 1698.9,
-   "target": 1857.84,
-   "since": "2026-11-27T18:25+03:00",
+   "entry": 0.15368,
+   "stop": 0.14788,
+   "target": 0.16527,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
-   "symbol": "TRX-USD",
+   "symbol": "BTC-USD",
    "kind": "crypto",
    "rule": "watch",
-   "entry": 0.30975,
-   "stop": 0.30718,
-   "target": 0.31491,
-   "since": "2026-11-27T18:25+03:00",
+   "entry": 62099.99,
+   "stop": 60338.17,
+   "target": 65623.63,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "HBAR-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 0.0559,
+   "stop": 0.05376,
+   "target": 0.06019,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "XRP-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 0.9856,
+   "stop": 0.95168,
+   "target": 1.053,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -406,9 +366,49 @@
    "kind": "crypto",
    "rule": "watch",
    "entry": 9.704,
-   "stop": 9.387,
-   "target": 10.338,
-   "since": "2026-11-27T18:25+03:00",
+   "stop": 9.362,
+   "target": 10.388,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "DOT-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 0.6936,
+   "stop": 0.66737,
+   "target": 0.74606,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "ETH-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 1751.88,
+   "stop": 1692.66,
+   "target": 1870.32,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "NEAR-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 3.159,
+   "stop": 2.996,
+   "target": 3.485,
+   "since": "2026-11-27T19:42+03:00",
+   "status": "open"
+  },
+  {
+   "symbol": "FIL-USD",
+   "kind": "crypto",
+   "rule": "watch",
+   "entry": 0.5641,
+   "stop": 0.53951,
+   "target": 0.61328,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
@@ -416,29 +416,19 @@
    "kind": "crypto",
    "rule": "watch",
    "entry": 219.69,
-   "stop": 212.496,
-   "target": 234.078,
-   "since": "2026-11-27T18:25+03:00",
-   "status": "open"
-  },
-  {
-   "symbol": "FIL-USD",
-   "kind": "crypto",
-   "rule": "watch",
-   "entry": 0.5697,
-   "stop": 0.54747,
-   "target": 0.61417,
-   "since": "2026-11-27T18:25+03:00",
+   "stop": 211.92,
+   "target": 235.23,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   },
   {
    "symbol": "ATOM-USD",
    "kind": "crypto",
    "rule": "watch",
-   "entry": 1.328,
-   "stop": 1.28,
-   "target": 1.424,
-   "since": "2026-11-27T18:25+03:00",
+   "entry": 1.31,
+   "stop": 1.259,
+   "target": 1.412,
+   "since": "2026-11-27T19:42+03:00",
    "status": "open"
   }
  ]
