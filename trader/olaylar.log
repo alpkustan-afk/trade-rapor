@@ -7,3 +7,8 @@
 {"symbol": "ADA-USD", "event": "triggered", "level": 0.15205, "time": "27.11 08:05", "entry": 0.15205, "stop": 0.14637, "target": 0.16341}
 {"symbol": "DOGE-USD", "event": "triggered", "level": 0.05797, "time": "27.11 08:05", "entry": 0.05797, "stop": 0.05606, "target": 0.06179}
 {"symbol": "ETH-USD", "event": "triggered", "level": 1736.52, "time": "27.11 07:35", "entry": 1736.52, "stop": 1681.49, "target": 1846.57}
+{"symbol": "ETC-USD", "event": "triggered", "level": 6.007, "time": "27.11 08:30", "entry": 6.007, "stop": 5.834, "target": 6.353}
+{"symbol": "XRP-USD", "event": "triggered", "level": 0.9657, "time": "27.11 08:30", "entry": 0.9657, "stop": 0.93372, "target": 1.03}
+{"symbol": "BTC-USD", "event": "triggered", "level": 61738.28, "time": "27.11 08:30", "entry": 61738.28, "stop": 60084.2, "target": 65046.44}
+{"symbol": "SOL-USD", "event": "triggered", "level": 73.34, "time": "27.11 08:30", "entry": 73.34, "stop": 70.845, "target": 78.33}
+{"symbol": "HBAR-USD", "event": "triggered", "level": 0.05527, "time": "27.11 08:30", "entry": 0.05527, "stop": 0.05321, "target": 0.05939}
